@@ -30,6 +30,12 @@ kind of thing you only notice if you look.
 | **[virtio-fuzz-ci](https://github.com/CalvinTjoaquinn/virtio-fuzz-ci)** | Continuous fuzzing of the rust-vmm virtio parsers on GitHub-hosted runners, with the corpus cached between runs so coverage compounds instead of restarting every night. ![](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) ![](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![](https://img.shields.io/badge/MIT-0969da?style=flat-square) |
 | **[hallusec-replication](https://github.com/CalvinTjoaquinn/hallusec-replication)** | Replication package for *Detecting Security-Critical Code Hallucinations in LLM-Generated Code*. ![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![](https://img.shields.io/badge/MIT-0969da?style=flat-square) |
 
+### Since 2020
+
+<a href="https://github.com/CalvinTjoaquinn?tab=overview">
+  <img alt="1,272 contributions since June 2020, longest streak 20 days" src="https://streak-stats.demolab.com/?user=CalvinTjoaquinn&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
+</a>
+
 ### How I usually find things
 
 Reading an issue tracker puts you in a queue behind everyone else reading the
